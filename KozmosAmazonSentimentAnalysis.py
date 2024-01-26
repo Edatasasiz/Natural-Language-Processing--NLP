@@ -1,15 +1,3 @@
-### İş Problemi ###
-# Amazon üzerinden satışlarını gerçekleştiren ev tekstili ve günlük giyim odaklı üretimler yapan Kozmos,
-# ürünlerine gelen yorumları analiz ederek ve aldığı şikayetlere göre özelliklerini geliştirerek satışlarını
-# artırmayı hedeflemektedir. Bu hedef doğrultusunda yorumlara duygu analizi yapılarak etiketlenecek ve
-# etiketlenen veri ile sınıflandırma modeli oluşturulacaktır.
-
-# Star : Ürüne verilen yıldız sayısı
-# HelpFul : Yorumu faydalı bulan kişi sayısı
-# Title : Yorum içeriğine verilen başlık, kısa yorum
-# Review : Ürüne yapılan yorum
-
-
 from warnings import filterwarnings
 import matplotlib.pyplot as plt
 import numpy as np
